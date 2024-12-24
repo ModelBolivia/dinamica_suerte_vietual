@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+			   <?xml-stylesheet type="text/xsl" href="stylesheet.xslt"?>
+
+                     
+
+			    <urlset   
+			    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   
+			    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+                      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"   
+			    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"   
+			    >
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/instrucciones-de-dinamica-virtual/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/ticket/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/promociones-de-este-mes/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/modalidades-de-participacion/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/ahora-cambio-la-forma-de-comprar-tus-articulos-y-productos-de-belleza/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/administracion/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/administracion/about.html</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/administracion/contact.html</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/adm-freddy_copa_uyuni/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/author/freddycito14/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/2024/10/20/hello-world/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/sample-page/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/dinamica_suerte_virtual_menu/wp-admin/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/administracion/index.html</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/administracion/support.html</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/administracion/blog.html</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/adm_Freddy_Copa_Uyuni/acerca-de-nosotros/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/adm_Freddy_Copa_Uyuni/contactos/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/adm_Freddy_Copa_Uyuni/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/adm_Freddy_Copa_Uyuni/novedades/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/representacionparamodelos/</loc><changefreq>always</changefreq></url>
+<url><loc>https://modelbolivia.github.io/adm_Freddy_Copa_Uyuni/servicios/</loc><changefreq>always</changefreq></url>
+</urlset>
+
